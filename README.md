@@ -16,4 +16,4 @@ Alguns desafios, especialmente os que tive mais dificuldade, têm soluções sem
 
 ---
 
-✨ *Repositório foi publicado quando os exercícios já tinham sido resolvidos até o 89 e será atualizado constantemente até chegar no último!*
+✨ *Repositórioserá atualizado constantemente até chegar no último exercício!*
